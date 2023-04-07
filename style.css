@@ -249,7 +249,7 @@ header{
       padding-top: 10px;
    }
    .electrical img , .others img{
-      width: 60%;
+      width: 120%;
       height: 120%;
    }
 }
